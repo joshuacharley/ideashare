@@ -1,5 +1,5 @@
 # ideashare
-# LIVE DEMO https://dashboard.heroku.com/apps/sltechideas
+# LIVE DEMO https://sltechideas.herokuapp.com/
 This is a node,express,Mongodb app
 INSTALL:
 1: npm install
